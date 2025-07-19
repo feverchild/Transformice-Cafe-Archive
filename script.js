@@ -1,7 +1,40 @@
 ﻿const data = [
 
 
-
+{
+    "uploader": "Admin",
+    "filename": "img21.png",
+    "id": 21,
+    "names": [
+        "Pandaitis",
+        "Slayer"
+    ],
+    "year": 2025,
+    "month": 7,
+    "nsfw": false,
+    "date_uploaded_day": 20,
+    "date_uploaded_month": 7,
+    "date_uploaded_year": 2025,
+    "description": ""
+},
+         {
+    "uploader": "Admin",
+    "filename": "img20.png",
+    "id": 20,
+    "names": [
+        "Annara",
+        "Terraha",
+        "Lucky",
+        "Textfile"
+    ],
+    "year": 2025,
+    "month": 7,
+    "nsfw": false,
+    "date_uploaded_day": 20,
+    "date_uploaded_month": 7,
+    "date_uploaded_year": 2025,
+    "description": ""
+},
 {
         "uploader": "Admin",
         "filename": "img19.png",
