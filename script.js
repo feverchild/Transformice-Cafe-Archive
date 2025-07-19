@@ -3,7 +3,19 @@
 
 
 
-     
+    {
+        "uploader": "Admin",
+        "filename": "img9.png",
+        "id": 9,
+        "names": ["Pocky", "Textfile"],
+        "year": 2025,
+        "month": 7,
+        "nsfw": false,
+        "date_uploaded_day": 19,
+        "date_uploaded_month": 7,
+        "date_uploaded_year": 2025,
+        "description": ""
+    }, 
     {
         "uploader": "Admin",
         "filename": "img1.png",
