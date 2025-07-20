@@ -962,7 +962,7 @@
     "date_uploaded_month": 7,
     "date_uploaded_year": 2025,
     "description": ""
-}
+},
 {
     "uploader": "Admin",
     "filename": "img83.png",
@@ -977,7 +977,7 @@
     "date_uploaded_month": 7,
     "date_uploaded_year": 2025,
     "description": ""
-}
+},
 {
     "uploader": "Admin",
     "filename": "img84.png",
@@ -1586,7 +1586,7 @@
     "date_uploaded_month": 7,
     "date_uploaded_year": 2025,
     "description": ""
-}
+},
 {
     "uploader": "Admin",
     "filename": "img124.png",
@@ -1601,7 +1601,7 @@
     "date_uploaded_month": 7,
     "date_uploaded_year": 2025,
     "description": ""
-}
+},
 {
     "uploader": "Admin",
     "filename": "img125.png",
@@ -1773,7 +1773,8 @@
     "date_uploaded_month": 7,
     "date_uploaded_year": 2025,
     "description": ""
-},{
+},
+    {
     "uploader": "Admin",
     "filename": "img145.png",
     "id": 145,
