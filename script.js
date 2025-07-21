@@ -1,21 +1,5 @@
 ﻿const data = [
-   {
-    "uploader": "Shaymingrass",
-    "filename": "img2633.png",
-    "id": 2633,
-    "names": [
-        "Baby",
-        "Shaymingrass",
-        "Activevirus"
-    ],
-    "year": null,
-    "month": null,
-    "nsfw": false,
-    "date_uploaded_day": 21,
-    "date_uploaded_month": 7,
-    "date_uploaded_year": 2025,
-    "description": ""
-},
+
 {
     "uploader": "Shaymingrass",
     "filename": "img2634.png",
